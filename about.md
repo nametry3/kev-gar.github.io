@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+¡Hola! Me propuse para este 2021 el desafío de escribir algo todos los días. El número de palabras por día debe ser igual al número de días que llevo en el desafío.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Me llamo Kevgar (poca gente me llama así, de todas formas).
+Hago clases de matemáticas,
+me gusta escribir, aunque no lo hago nunca,
+bueno, últimamente escribo un poco todos los días, pero no sé cuánto dure eso.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Mi correo personal](mailto:kevin.contreras@mayr.cl)
