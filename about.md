@@ -12,7 +12,7 @@ Me hago llamar Kevgar (mi nombre es Kevin Edgar). El año pasado se me ocurrió 
 
 El 'logo' es una referencia a que si continúo este desafío por _n_ días, ese es el número total de palabras que habré escrito. (Y sí, acepto mejoras xD).
 
-Gran parte de los días lo que escribo tiene algún significado, que estoy guardando en otro lugar por si a alguien le interesa.
+Gran parte de los días lo que escribo tiene algún significado o explicación, que estoy guardando en otro lugar por si a alguien le interesa.
 
 Tengo [un blog](dia8649.blogspot.com) con reflexiones más personales. Escribo poco (y muy irregularmente) en él, pero quizá eso vaya cambiando este año también.
 
