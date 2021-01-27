@@ -14,7 +14,7 @@ El 'logo' es una referencia a que si continúo este desafío por _n_ días, ese 
 
 Gran parte de los días lo que escribo tiene algún significado o explicación, que estoy guardando en otro lugar por si a alguien le interesa.
 
-Tengo [un blog](dia8649.blogspot.com) con reflexiones más personales. Escribo poco (y muy irregularmente) en él, pero quizá eso vaya cambiando este año también.
+Tengo [un blog](https://dia8649.blogspot.com) con reflexiones más personales. Escribo poco (y muy irregularmente) en él, pero quizá eso vaya cambiando este año también.
 
 ### Datos de contacto
 
