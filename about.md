@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: Sobre esta página
 permalink: /about/
 ---
 
-¡Hola! Me propuse para este 2021 el desafío de escribir algo todos los días. El número de palabras por día debe ser igual al número de días que llevo en el desafío.
+¡Hola! Me propuse para este 2021 el desafío de escribir algo todos los días. El número de palabras por día es igual al número de días que llevo en el desafío (es decir, el primer día escribo una palabra, el segundo día dos, y así sucesivamente). Los textos son independientes uno del otro.
 
-### More Information
+### Más información
 
-Me llamo Kevgar (poca gente me llama así, de todas formas).
-Hago clases de matemáticas,
-me gusta escribir, aunque no lo hago nunca,
-bueno, últimamente escribo un poco todos los días, pero no sé cuánto dure eso.
+Me hago llamar Kevgar (mi nombre es Kevin Edgar). El año pasado se me ocurrió esta idea y año nuevo me pareció un buen día para empezar. 
 
-### Contact me
+El 'logo' es una referencia a que si continúo este desafío por $n$ días, ese es el número total de palabras que habré escrito.
 
-[Mi correo personal](mailto:kevin.contreras@mayr.cl)
+Gran parte de los días lo que escribo tiene algún significado, que estoy guardando en otro lugar por si a alguien le interesa.
+
+### Datos de contacto
+
+Correo electrónico: kevin.contreras@mayr.cl
+
+Telegram username: @kev-gar
