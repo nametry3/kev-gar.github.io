@@ -20,4 +20,4 @@ Tengo [un blog](dia8649.blogspot.com) con reflexiones más personales. Escribo p
 
 Correo electrónico: kevin.contreras@mayr.cl
 
-Telegram username: @kev-gar
+Telegram ID: @kev-gar
