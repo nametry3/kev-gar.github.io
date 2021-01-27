@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre esta página
-permalink: /Info/
+permalink: /about/
 ---
 
 ¡Hola! Me propuse para este 2021 el desafío de escribir algo todos los días. El número de palabras por día es igual al número de días que llevo en el desafío (es decir, el primer día escribo una palabra, el segundo día dos, y así sucesivamente). Los textos son independientes uno del otro.
