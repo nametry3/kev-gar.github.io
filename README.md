@@ -1,4 +1,4 @@
-# Día N, N palabras
+# N días, N nuevas palabras.
 
 Este es un clon de [Jekyll Now](https://github.com/barryclark/jekyll-now) que ocupo para la página del desafío de escritura que estoy haciendo.
 
